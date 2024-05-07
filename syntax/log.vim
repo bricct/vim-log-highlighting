@@ -95,9 +95,9 @@ syn keyword logLevelEmergency EMERGENCY EMERG
 syn keyword logLevelAlert ALERT
 syn keyword logLevelCritical CRITICAL CRIT FATAL
 syn keyword logLevelError ERROR ERR FAILURE SEVERE
-syn keyword logLevelWarning WARNING WARN
+syn keyword logLevelWarning WARNING WARN WRN
 syn keyword logLevelNotice NOTICE
-syn keyword logLevelInfo INFO
+syn keyword logLevelInfo INFO INF
 syn keyword logLevelDebug DEBUG FINE
 syn keyword logLevelTrace TRACE FINER FINEST
 
